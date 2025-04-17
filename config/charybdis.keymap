@@ -116,7 +116,7 @@
 
         NAV {
             bindings = <
-&kp RIGHT_BRACE        &kp CARET        &kp AMPERSAND  &kp ASTERISK    &kp MINUS   &kp EQUAL               &kp N6           &kp N7     &kp N8    &kp N9  &kp N0     &kp F1
+&kp RIGHT_BRACE        &kp CARET        &kp AMPERSAND  &kp ASTERISK    &kp MINUS   &kp EQUAL               &kp N6           &kp N7     &kp N8    &kp N9  &kp N0     &kp BACKSPACE
 &kp RBKT               &kp TAB          &kp LSHFT      &kp LCTRL       &kp LALT    &kp KP_PLUS             &kp LESS_THAN    &kp LEFT   &kp DOWN  &kp UP  &kp RIGHT  &kp GREATER_THAN
 &kp RIGHT_PARENTHESIS  &kp EXCLAMATION  &kp AT_SIGN    &kp POUND       &kp DOLLAR  &kp PERCENT             &kp N1           &kp N2     &kp N3    &kp N4  &kp N5     &kp F20
                                                        &kp LEFT_BRACE  &kp LBKT    &kp LEFT_PARENTHESIS    &lt 3 BACKSPACE  &kp LSHFT
